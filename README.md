@@ -37,4 +37,4 @@ Fied is a **restaurant discovery app** designed to help users find the best dini
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/482949ed-db1f-4f69-8b26-18e500483372" alt="Demo Preview" width="300"/>
-</p>****
+</p>
